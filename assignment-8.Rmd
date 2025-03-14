@@ -1,0 +1,45 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Brian McGreal<br>bmcgreal@uw.edu"
+date: "`r Sys.Date()`"
+output: ioslides_presentation
+---
+
+# Introduction
+
+## About Me|Personal
+
+> * I was born in California, USA
+
+> * My favorite food is tacos.
+
+> * My favorite animal is puppies
+
+## About Me|Academic
+
+> * I received my Bachelor's at University of Arizona
+
+> * I studied Environmental and Water Resource Economics
+
+# Data science
+
+## Course topics|3 things I enjoyed learning about
+
+> * Github integration with R studio
+
+> * Using .rmd to integrate text, code, and graphics
+
+> * How to make nifty presentations like this one
+
+## Course topics|3 things I'd like to learn more about
+
+> * More on SQL
+
+> * More on package development
+
+> * Practice askign for help on stack exchange and with gists
+
+---
+
+  ![](em.jpg){width=100%}
